@@ -60,6 +60,8 @@ Below are images for the two steps. The first the corners and then the undistort
 
 ![alt text][image1]
 
+Undistorted Image on the right.
+
 ![alt text][image2]
 
 
