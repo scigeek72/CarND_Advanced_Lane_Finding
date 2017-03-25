@@ -19,8 +19,8 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./image_For_writeup/CalibratedImgs.png "Chessboard Corners"
-[image2]: ./image_For_writeup/Undistorted_Img "Camera Image and it's Undistorted copy"
-[image3]: ./image_For_writeup/Undistorted_road_Img "Camera Image of the road and it's Undistorted copy"
+[image2]: ./image_For_writeup/Undistorted_Img.png "Camera Image and it's Undistorted copy"
+[image3]: ./image_For_writeup/Undistorted_road_Img.png "Camera Image of the road and it's Undistorted copy"
 [image4]: ./image_For_writeup/Yellow_Mask_Warped.png "Yellow Mask"
 [image5]: ./image_For_writeup/White_Mask_Warped.png "White Mask"
 [image6]: ./image_For_writeup/Combined_Masked_Img.png "Combined Yellow and White Masks"
